@@ -7,6 +7,9 @@ Hier entsteht die Webpresenz von Solar-Angell - einer Schueler Solar Genossensch
 
 **Coming Soon**
 
+**Warnung**: diese Seite ist noch nicht fertig
+{: .notice--danger}
+
 ## Wer wir sind
 
 ## Was wir machen

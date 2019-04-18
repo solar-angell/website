@@ -7,4 +7,4 @@ read_time: true
 ---
 
 Wir haben nun eine Website!
-Auf diser wirst du in Zukunft wichtige informationen finden.
+Auf diser wirst du in Zukunft wichtige Informationen finden.
