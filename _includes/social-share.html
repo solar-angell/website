@@ -8,6 +8,10 @@
         background-color: #25D366;
         color: #fff;
     }
+    .btn--whatsapp:hover {
+        background-color: rgb(31, 187, 88);
+        color: #fff;
+    }
     </style>
 
     <a href="https://twitter.com/intent/tweet?{% if site.twitter.username %}via={{ site.twitter.username | url_encode }}&{% endif %}text={{ page.title | url_encode }}%20{{ page.url | absolute_url | url_encode }}"
