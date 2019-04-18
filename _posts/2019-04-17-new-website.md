@@ -7,4 +7,5 @@ read_time: true
 ---
 
 Wir haben nun eine Website!
-Auf diser wirst du in Zukunft wichtige Informationen finden.
+Auf dieser wirst du in Zukunft wichtige Informationen finden.
+Wir empfehlen dir desshalb schon mal ein Lesezeichen zu setzen.
