@@ -1,4 +1,7 @@
-# Solar-angell
+---
+permalink: /
+layout: single
+---
 
 Hier entsteht die Webpresenz von Solar-Angell - einer Schueler Solar Genossenschaft.
 
