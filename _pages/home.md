@@ -16,7 +16,7 @@ Wir sind die SolarAngell, eine Schüler-Solar-Genossenschaft des Freiburger Mont
 ## Was wir machen:
 Wir haben uns zum Ziel gesetzt, durch das Betreiben von Photovoltaikanlagen aktiv gegen den Klimawandel vorzugehen. Dafür planen und bauen wir auf Dächern in und rund um Freiburg Photovoltaikanlagen, finanziert durch die Einlagen unserer Mitglieder. In unserem Know-how werden wir dabei von der Solarbürgergenossenschaft Freiburg und der Fesa e.V. unterstützt.
 
-## Was Sie tun koennen:
+## Was Sie tun können:
 Sie können uns unterstützen und Mitglied werden, indem sie Anteile für jeweils zehn Euro kaufen. Bei Schüler sollten das  mindestens fünf und bei jeder Andere mindestens zehn Anteile sein. Um unserer Genossenschaft beizutreten müssen Sie uns nur das Beitrittsformular ausfüllen, welches Sie hier finden!
 
 ## Kontakt & Social Media:
