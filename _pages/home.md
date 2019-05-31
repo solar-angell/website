@@ -21,5 +21,5 @@ Sie können uns unterstützen und Mitglied werden, indem sie Anteile für jeweil
 
 ## Kontakt & Social Media:
 
-- [Youtube](https://www.youtube.com/channel/UC86R1fJWjFgTz2FNXjCdEwQ)
+- [Youtube](https://www.youtube.com/channel/UC5fB2iUl_9mhknu8VfuzMqw)
 - [Email](mailto://solar-angell@gmx.de)

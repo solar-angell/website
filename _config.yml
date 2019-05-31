@@ -96,7 +96,7 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
     - label: "Youtube"
-      url: "https://www.youtube.com/channel/UC86R1fJWjFgTz2FNXjCdEwQ"
+      url: "https://www.youtube.com/channel/UC5fB2iUl_9mhknu8VfuzMqw"
 
 # Analytics
 # analytics:

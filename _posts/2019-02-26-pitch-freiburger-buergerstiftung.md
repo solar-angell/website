@@ -2,7 +2,7 @@
 title: "Pitch bei der Freiburger Buergerstiftung"
 header:
   video:
-    id: EyD3yCtNepo
+    id: xHuKRki3TlI
     provider: youtube
 categories:
   - Veranstaltungen
