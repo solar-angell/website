@@ -3,7 +3,7 @@ permalink: /
 layout: single
 ---
 
-Hier entsteht die Webpresenz von Solar-Angell - einer Schueler Solar Genossenschaft.
+Hier entsteht die Webpresenz von Solar-Angell - einer Schüler Solar Genossenschaft.
 
 **Coming Soon**
 
