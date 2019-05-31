@@ -1,5 +1,5 @@
 ---
-title: "Fuer Dachbesitzer"
+title: "Für Dachbesitzer"
 permalink: /dach
 layout: single
 ---
