@@ -16,4 +16,4 @@ Am 26.02.2019 haben wir unser projekt bei der freiburger-buergerstiftung in form
 
 
 Links:
-http://www.freiburger-buergerstiftung.de/teaser_pitch.html
+[http://www.freiburger-buergerstiftung.de/teaser_pitch.html](http://www.freiburger-buergerstiftung.de/teaser_pitch.html)
