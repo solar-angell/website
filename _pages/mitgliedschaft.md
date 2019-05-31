@@ -18,12 +18,14 @@ toc_sticky: true
 
 [[ Seite ist in arbeit ]]
 
-## Allgemeines zur Mitgliedschaft
+## Allgemeines zur Mitgliedschaft:
 
 ### Was bedeutet es Mitglied zu sein?
+Als Mitglied erhalten Sie einen Anteil des jährlichen Gewinns der SolarAngell. Durch unseren genossenschaftlichen Aufbau sind Sie zudem befugt, sich selbst intensiv in die SolarAngell einzubringen und so aktiv gegen den Klimawandel vorzugehen.
 
 ### Gewinnverteilung und Ausschuttung
 
 ### Beitritts Bedingungen
+Egal ob Schüler oder Erwachsener, jeder kann uns beitreten. Dafür muss nur die Eintrittssumme von fünf (für Schüler) bzw. zehn (für jeden anderen) Anteilen gekauft werden. Diese kosten jeweils zehn Euro und können durch Ausfüllen des Beitrittsformulars angefragt werden.
 
-### BeitrittsFormular
+### Beitrittsformular
