@@ -1,0 +1,27 @@
+main:
+  - title: "News"
+    url: /news/
+  - title: "Mitgliedschaft"
+    url: /mitgliedschaft
+  - title: "Für Dachbesitzer"
+    url: /dach
+  - title: "Legal"
+    url: /legal
+    
+
+mitgliedschaft:
+  - title: Mitgliedschaft
+    children:
+      - title: Allgemeines zur Mitgliedschaft
+        url: /mitgliedschaft
+      - title: FAQ
+        #url: /mitgliedschaft-faq
+  - title: Mitglied werden
+    children:
+      - title: "Fuer Schueler"
+        url: #
+      - title: "Fuer Privatpersonen"
+        url: #
+      - title: "Fuer Firmen"
+        url: #
+        
