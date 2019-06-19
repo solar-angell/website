@@ -29,4 +29,4 @@ Als Mitglied erhalten Sie einen Anteil des jährlichen Gewinns der SolarAngell. 
 Egal ob Schüler oder Erwachsener, jeder kann uns beitreten. Dafür muss nur die Eintrittssumme von fünf (für Schüler) bzw. zehn (für jeden anderen) Anteilen gekauft werden. Diese kosten jeweils zehn Euro und können durch Ausfüllen des Beitrittsformulars angefragt werden.
 
 ### Beitrittsformular:
-<a href="Beitrittserklärung SolarAngell"> PDF Datei </a>
+<a href="Downloads\Beitrittserklärung SolarAngell"> PDF Datei </a>
