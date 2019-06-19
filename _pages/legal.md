@@ -10,8 +10,8 @@ permalink: /legal
 ##### 79102 Freiburg
 ##### solar-angell@gmx.de
 ##### Die Solaangell arbeitet unter dem Dachverband der Solar-Bürger-Genossenschaft e.G
-Impressum
-der Solar-Bürger-Genossenschaft
+
+Impressum der Solar-Bürger-Genossenschaft
 
 Angaben gemäß § 5 TMG:
 
